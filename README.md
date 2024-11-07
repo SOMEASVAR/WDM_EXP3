@@ -1,5 +1,5 @@
 ### EX-3: Implementation of GSP Algorithm In Python
-### DATE:14/09/2024 
+### DATE: 14.09.2024 
 ### AIM: 
 To implement GSP Algorithm In Python.
 ### Description:
